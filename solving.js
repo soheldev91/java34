@@ -1,3 +1,29 @@
+function Multiply(m1 , m2) {
+    const multi = m1 * m2;
+    return multi;
+
+    
+}
+
+const results = Multiply(3 , 4);
+console.log(results);
+if (resultm < 100 ) {
+    console.log('True');
+}
+else {
+    console.log('False');
+}
+
+
+
+
+
+
+
+
+
+
+
 // const numbers =[ 45 , 23 , 5 , 85 , 14 ]
 
 
